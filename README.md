@@ -7,6 +7,8 @@ Commands :
 
 git clone https://github.com/Lemon-India/xms-
 
+( please Install the requirements and updates if required )
+
 chmod + x *
 
 python shell.py
